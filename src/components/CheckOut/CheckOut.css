@@ -1,0 +1,16 @@
+.checkout-form{
+    background-color: white;
+    width: 80%;
+    margin: 100px auto;
+    padding: 50px;
+    -webkit-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    border-radius: 10px;
+}
+.bold-font{
+    font-weight: 700;
+}
+.table{
+    width: 100%;
+}

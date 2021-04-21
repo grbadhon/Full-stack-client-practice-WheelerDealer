@@ -1,0 +1,19 @@
+.manager-div{
+    background-color: white;
+    -webkit-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+    height: 100%;
+    overflow: scroll;
+    margin-top: 100px;
+}
+@media only screen and (max-width: 600px) {
+    .manager-div{
+        
+        height: 550px;
+        overflow: scroll;
+    }
+  }

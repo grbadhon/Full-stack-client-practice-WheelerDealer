@@ -1,0 +1,13 @@
+.dash-nav{
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    -webkit-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    margin-top: 100px;
+}
+.nav-link:hover{
+    background-color: rgb(78, 228, 255);
+    
+}

@@ -1,0 +1,16 @@
+.booking-table{
+    background-color: white;
+    width: 90%;
+    margin: 100px auto;
+    padding: 20px;
+    -webkit-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    -moz-box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    box-shadow: 2px 3px 77px -16px rgba(0,0,0,1);
+    border-radius: 10px;
+}
+@media only screen and (max-width: 600px) {
+    .booking-table{
+        height: 550px;
+        overflow: scroll;
+    }
+  }
